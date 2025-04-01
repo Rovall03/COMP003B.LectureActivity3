@@ -1,3 +1,11 @@
+/*
+ * Author: Rosa Ovalle
+ * Course: Comp-003B ASP.NET core
+ * Faculty: Jonathan Cruz
+ * Purpose: Demo routing model binding and validation in asp.net core mvc
+ * 
+ */
+
 namespace COMP003B.LectureActivity3
 {
     public class Program
